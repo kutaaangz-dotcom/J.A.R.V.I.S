@@ -1,1 +1,16 @@
-
+{
+  "name": "J.A.R.V.I.S",
+  "short_name": "JARVIS",
+  "description": "J.A.R.V.I.S - Personal AI Assistant",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#01060b",
+  "theme_color": "#01060b",
+  "lang": "id",
+  "categories": [
+    "productivity",
+    "utilities"
+  ]
+}
